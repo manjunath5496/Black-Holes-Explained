@@ -7,6 +7,7 @@
 <blockquote>The answer is then simple.</blockquote>
 <blockquote>Mass, Charge and Angular momentum.</blockquote>
 <p><strong>Books:</strong></p>
+<hr>
 <ul>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Black-Holes-Explained/blob/master/blh(1).pdf" style="text-decoration:none;">A Brief History of Time: From Big Bang to Black Holes </a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Black-Holes-Explained/blob/master/blh(2).pdf" style="text-decoration:none;">An Introduction to Black Holes, Information and the String Theory Revolution. The Holographic Universe</a></b></li>
